@@ -1,0 +1,6 @@
+This is the ReadMe manual for Jackson Colemans GUI Dice Game
+
+use the terminal to navigate the game. your role is the input that you enter,
+and in similar fashion to russian roulette, you can check to see if your di square is deadly.
+However, sometimes JFRAME has issues with the DI, and if this is the case, oddly going into full screen
+and then leaving it will solve your problem.
